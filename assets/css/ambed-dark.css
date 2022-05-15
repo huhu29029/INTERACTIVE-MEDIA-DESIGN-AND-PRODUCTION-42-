@@ -1,0 +1,237 @@
+:root {
+  --ambed-gray: #c1b8b3;
+  --ambed-bdr-color: rgba(255, 255, 255, 0.1);
+}
+
+body,
+body.boxed-wrapper .page-wrapper,
+.main-menu__wrapper-inner,
+.stricky-header.main-menu,
+.feature-one__arrow a,
+.feature-three__top-inner,
+.services-one__content,
+.project-one .thm-btn,
+.feature-two__icon,
+.sidebar__comments-icon,
+.blog-two,
+.blog-two:before,
+.contact-one__form-input-box input[type="text"],
+.contact-one__form-input-box input[type="email"],
+.contact-one__form-input-box textarea,
+.feature-three__btn,
+.service-details__category-list li a,
+.blog-three .blog-one__content,
+.contact-page__social a,
+.contact-one__btn,
+.sidebar__post-list li:hover,
+.projectc-details__pagination-icon a,
+.quality-work__progress .bar,
+.sidebar__category-list li:hover a,
+.sidebar__category-list li.active a,
+.sidebar__tags-list a,
+.preloader {
+  background-color: #2a2523;
+}
+
+body.boxed-wrapper,
+.service-details__category,
+.blog-details__pagenation li,
+.comment-form__input-box input[type="text"],
+.comment-form__input-box input[type="email"],
+.comment-form__input-box textarea,
+.contact-page__details,
+.projectc-details__pagination-single,
+.blog-three__right:before,
+.blog-details__social-list a,
+.service-details__points-two-content,
+.project-details__progress-box::before,
+.blgo-three__carousel.owl-theme .owl-nav .owl-prev,
+.blgo-three__carousel.owl-theme .owl-nav .owl-next,
+.testimonial-two__inner .testimonial-one__carousel.owl-carousel .owl-dots,
+.service-details__need-help-icon,
+.project-one__content,
+.main-menu .main-menu__list > li > ul,
+.main-menu .main-menu__list > li > ul > li > ul,
+.stricky-header .main-menu__list > li > ul,
+.stricky-header .main-menu__list > li > ul > li > ul,
+.home-showcase__inner,
+.feature-one__content,
+.quality-work,
+.testimonial-one__single,
+.error-page__form input[type="search"],
+.team-one__img-box:before,
+.blog-one__content,
+.project-details__details-box ul,
+.team-one__single .team-one__content,
+.blog-one__single:hover .blog-one__content,
+.faq-one-accrodion .accrodion.active .accrodion-title h4::before,
+.working-process__single,
+.welcome-one__experience,
+.contact-one__form,
+.sidebar__post,
+.sidebar__single,
+.blog-sidebar__bottom-box,
+.blog-sidebar__delivering-services,
+.why-choose-one__points li .icon,
+.main-header__top {
+  background-color: #3c3531;
+}
+
+.quality-work-shape-1 img,
+.quality-work-shape-3 img,
+.feature-two-shape-1 img,
+.feature-two-shape-2 img,
+.why-choose-one-shape-2 img,
+.about-one-wall img {
+  opacity: 0.05;
+}
+
+.main-header__logo .dark-logo {
+  display: none;
+}
+
+.main-header__logo .light-logo {
+  display: block;
+}
+
+.why-choose-one__points li .text h4,
+.project-details__details-name,
+.projectc-details__pagination-icon a,
+.project-details__details-share,
+.project-details__social a,
+.sidebar__comments-text-box p span,
+.project-details__room-wallpapers-title,
+.blog-details__title,
+.blog-details__tags span,
+.project-details__progress-box span,
+.project-details__challenge-title,
+.blog-sidebar__delivering-services-title a,
+.service-details__points-two-content h4,
+.projectc-details__pagination-content p,
+.blog-details__social-list a,
+.service-details__content-title,
+.service-details__benefits-title,
+.service-details__benefits-points li .text p,
+.blog-sidebar__title a,
+.sidebar__title,
+.sidebar__post-content h3 a,
+.sidebar__category-list li:hover a,
+.sidebar__category-list li.active a,
+.about-two__points li .text p,
+.feature-three__btn,
+.blgo-three__carousel.owl-theme .owl-nav .owl-prev,
+.blgo-three__carousel.owl-theme .owl-nav .owl-next,
+.feature-three__top-title a,
+.services-one__title a,
+.sidebar__tags-list a,
+.blog-details__pagenation li,
+.about-one__call-text a,
+.comment-one__title,
+.comment-form__title,
+.sidebar__comments-icon,
+.working-process__title a,
+.error-page__form button[type="submit"],
+.error-page__tagline,
+.welcome-one__experience-year h3,
+.main-menu-three__search,
+.main-menu-three__call-number h5 a,
+.project-one__title,
+.contact-page__details-list li p,
+.contact-page__details-list li p a,
+.contact-page__social a,
+.faq-one-accrodion .accrodion-title h4,
+.benefits-one__points-list li .text p,
+.section-title__title,
+.quality-work__feature li .text p,
+.quality-work__progress-title,
+.about-one__points-text,
+.testimonial-one__client-name,
+.project-one__more-project-content p,
+.main-menu__search,
+.blog-one__title a,
+.welcome-one__points li .text p,
+.main-header__top-right-social a,
+.main-menu .main-menu__list > li.current > a,
+.main-menu .main-menu__list > li:hover > a,
+.stricky-header .main-menu__list > li.current > a,
+.stricky-header .main-menu__list > li:hover > a,
+.feature-one__title a,
+.team-one__name a,
+.brand-one__title h2,
+.comment-one__content h3,
+.welcome-one__person-name,
+.home-showcase__title,
+.project-details__progress-content h3,
+.project-details__points li .text p,
+.project-details__result-title,
+.main-header__top-address li .content h5,
+.main-header__top-address li .content h5 a {
+  color: #ffffff;
+}
+
+.main-header__top-right-social a {
+  background-color: #2f2a27;
+}
+
+.newsletter__input-box input[type="email"],
+.why-choose-one-shape-1,
+.why-choose-one-shape-3,
+.about-one__shape-1,
+.about-one-shape-2 {
+  background-color: rgba(60, 53, 49, 0.5);
+}
+
+.project-one__more-project-content p a:hover,
+.feature-one__arrow a {
+  color: var(--ambed-base);
+}
+
+.project-one__more-project-content p a:hover {
+  opacity: 0.8;
+}
+
+.preloader__image {
+  background-image: url(../images/loader-light.png);
+}
+
+.main-menu .main-menu__list > li > a > .main-menu-border,
+.stricky-header .main-menu__list > li > a > .main-menu-border {
+  border-color: #ffffff;
+}
+
+.blog-two-bg,
+.services-three-bg,
+.testimonial-two-bg,
+.services-two-bg {
+  background-image: url(../images/backgrounds/services-two-bg-dark.jpg) !important;
+  opacity: 1;
+}
+
+.services-two-shape-1:before {
+  border-top-color: rgba(255, 255, 255, 0.1);
+}
+
+.services-two-shape-2:before {
+  border-left-color: rgba(255, 255, 255, 0.1);
+}
+
+.services-two-shape-3:before {
+  border-right-color: rgba(255, 255, 255, 0.1);
+}
+
+.welcome-one__experience-shape {
+  opacity: 0.3;
+}
+
+.blog-three .blog-one__content {
+  -webkit-box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.07);
+          box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.07);
+}
+
+.main-menu .main-menu__list > li > ul > li + li,
+.main-menu .main-menu__list > li > ul > li > ul > li + li,
+.stricky-header .main-menu__list > li > ul > li + li,
+.stricky-header .main-menu__list > li > ul > li > ul > li + li {
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+/*# sourceMappingURL=ambed-dark.css.map */

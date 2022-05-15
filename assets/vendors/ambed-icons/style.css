@@ -1,0 +1,147 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?l394az');
+  src:  url('fonts/icomoon.eot?l394az#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?l394az') format('truetype'),
+    url('fonts/icomoon.woff?l394az') format('woff'),
+    url('fonts/icomoon.svg?l394az#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-image-gallery1:before {
+  content: "\e927";
+}
+.icon-magnifying-glass:before {
+  content: "\e926";
+}
+.icon-phone-call:before {
+  content: "\e900";
+}
+.icon-location:before {
+  content: "\e901";
+}
+.icon-wallpaper:before {
+  content: "\e902";
+}
+.icon-high-quality:before {
+  content: "\e903";
+}
+.icon-wallpaper-1:before {
+  content: "\e904";
+}
+.icon-mind:before {
+  content: "\e905";
+}
+.icon-wallpaper-2:before {
+  content: "\e906";
+}
+.icon-best-price:before {
+  content: "\e907";
+}
+.icon-wallpaper-3:before {
+  content: "\e908";
+}
+.icon-paint:before {
+  content: "\e909";
+}
+.icon-wallpaper-4:before {
+  content: "\e90a";
+}
+.icon-image-gallery:before {
+  content: "\e90b";
+}
+.icon-wallpaper-5:before {
+  content: "\e90c";
+}
+.icon-quotation:before {
+  content: "\e90d";
+}
+.icon-like:before {
+  content: "\e90e";
+}
+.icon-bathroom:before {
+  content: "\e90f";
+}
+.icon-expert:before {
+  content: "\e910";
+}
+.icon-list:before {
+  content: "\e911";
+}
+.icon-experts:before {
+  content: "\e912";
+}
+.icon-wallpaper-6:before {
+  content: "\e913";
+}
+.icon-email:before {
+  content: "\e914";
+}
+.icon-pin:before {
+  content: "\e915";
+}
+.icon-checked:before {
+  content: "\e916";
+}
+.icon-house:before {
+  content: "\e917";
+}
+.icon-handshake:before {
+  content: "\e918";
+}
+.icon-apartment:before {
+  content: "\e919";
+}
+.icon-good-review:before {
+  content: "\e91a";
+}
+.icon-award:before {
+  content: "\e91b";
+}
+.icon-paint-palette:before {
+  content: "\e91c";
+}
+.icon-confirmation:before {
+  content: "\e91d";
+}
+.icon-plus-symbol:before {
+  content: "\e91e";
+}
+.icon-furnitures:before {
+  content: "\e91f";
+}
+.icon-wallpaper-7:before {
+  content: "\e920";
+}
+.icon-terrace:before {
+  content: "\e921";
+}
+.icon-long-paper-roll:before {
+  content: "\e922";
+}
+.icon-wallpaper-8:before {
+  content: "\e923";
+}
+.icon-message:before {
+  content: "\e924";
+}
+.icon-programmer:before {
+  content: "\e925";
+}
