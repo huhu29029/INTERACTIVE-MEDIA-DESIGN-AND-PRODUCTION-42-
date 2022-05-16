@@ -1,13 +1,3 @@
-/**
- * FILE: jquery.ptTileSelect.css
- * 	Default style for the timeselect container.
- * 
- *  LAST UPDATED:
- * 
- * 		- $Date: 2009/04/12 20:23:02 $
- * 		- $Author: paulinho4u $
- * 		- $Revision: 1.1 $
- */
 
 
 #ptTimeSelectCntr {
@@ -51,7 +41,7 @@
   text-align: center;
 }
 #ptTimeSelectCntr .ui-widget-header .ui-icon {
-  background-image: url("images/ui-icons_444444_256x240.png") !importent;
+  background-image: url("images/ui-icons_444444_256x240.png") ;
 }
 
 

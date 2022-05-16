@@ -1,9 +1,4 @@
-/*
- * CircleType 0.34
- * Peter Hrynkow
- * Copyright 2013, Licensed GPL & MIT
- *
-*/
+
 
 $.fn.circleType = function(options) {
 

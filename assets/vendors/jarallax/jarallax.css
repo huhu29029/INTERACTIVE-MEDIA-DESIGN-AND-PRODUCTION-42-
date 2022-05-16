@@ -5,7 +5,7 @@
 .jarallax > .jarallax-img {
     position: absolute;
     object-fit: cover;
-    /* support for plugin https://github.com/bfred-it/object-fit-images */
+    
     font-family: 'object-fit: cover;';
     top: 0;
     left: 0;
